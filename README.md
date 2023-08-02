@@ -1,3 +1,4 @@
 # Road-Accident-Analysis-PowerBI
 "The Power BI dashboard aims to analyze road accident data and identify patterns and trends to enhance road safety. After importing and cleaning the data, the dashboard will utilize various visualizations like bar charts, line charts, and heat maps to explore the data and identify key metrics such as accident counts, fatalities, and injuries. Time series analysis will be performed to detect any temporal trends. Root cause analysis will uncover contributing factors to accidents, and risk analysis will assess the likelihood of accidents in specific conditions. Additionally, predictive modeling may be used to forecast accident rates or identify potential accident-prone areas". 
+
 ![dashboard](https://github.com/paruchuriyaswanth2002/Road-Accident-Analysis-PowerBI/assets/117756670/726a75c4-ef44-48dc-a7f2-2c7a303b5ff9)
